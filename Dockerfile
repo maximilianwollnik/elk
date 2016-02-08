@@ -1,4 +1,4 @@
-FROM willdurand/elk
+FROM elk_main
 
 ADD *.conf /etc/logstash/
 
